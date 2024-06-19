@@ -279,9 +279,8 @@ defaults:
       path: "talkmap/**"
     values:
       sitemap: false
-  # _stuff starting with t
   - scope:
-      path: "t**"
+      path: "publications"
     values:
       sitemap: false
 
