@@ -22,6 +22,7 @@ Publications and Preprints
   
 - [Do Multimodal Foundation Models Understand Enterprise Workflows? A Benchmark for Business Process Management Tasks]()<br>
   <span style="font-size:4mm;">Michael Wornow, Avanika Narayan, Ben Viggiano, **Ishan S. Khare**, Tathagat Verma, Tibor Thompson, Miguel Angel Fuentes Hernandez, Sudharsan Sundar, Chloe Trujillo, Krrish Chawla, Rongfei Lu, Justin Shen, Divya Nagaraj, Joshua Martinez, Vardhan Agrawal, Althea Hudson, Nigam H. Shah, Christopher Ré. *In submission*, 2024.</span><br>
+  <span style="font-size:4mm;">[website](https://hazyresearch.stanford.edu/wonderbread-website/) | [code](https://github.com/HazyResearch/wonderbread)</span>
   
 - [Actionable Insights on Philadelphia Crime Hot-Spots: Clustering and Statistical Analysis to Inform Future Crime Legislation](https://arxiv.org/abs/2306.15987)<br>
   <span style="font-size:4mm;">**Ishan S. Khare**, Tarun K. Martheswaran, Rahul K. Thomas, Aditya Bora. *Arxiv*, 2023.</span><br>
