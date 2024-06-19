@@ -15,6 +15,8 @@ description              : &description "CS Graduate Student"
 url                      : https://iskhare.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iskhare.github.io"
+logo                     : /images/block-s-logo@2x.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : #
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
