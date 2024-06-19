@@ -279,12 +279,6 @@ defaults:
       path: "talkmap/**"
     values:
       sitemap: false
-  # markdown_generator
-  - scope:
-      path: ""
-      type: markdown_generator
-    values:
-      sitemap: false
 
 
 # Sass/SCSS
