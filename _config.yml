@@ -279,8 +279,10 @@ defaults:
       path: "talkmap/**"
     values:
       sitemap: false
+  # markdown_generator
   - scope:
-      path: "publications"
+      path: ""
+      type: markdown_generator
     values:
       sitemap: false
 
