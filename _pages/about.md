@@ -18,7 +18,7 @@ Please get in touch with me via email if you would like to chat about research o
 Publications and Preprints
 ------
 - [Smoothie: Label Free Language Model Routing]()<br>
-  <span style="font-size:4mm;">Neel Guha\*, Mayee F. Chen\*, Trevor Chow, **Ishan S. Khare**, Christopher Ré. *In submission*, 2024.</span><br>
+  <span style="font-size:4mm;">Neel Guha\*, Mayee F. Chen\*, Trevor Chow, **Ishan S. Khare**, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
   
 - [Do Multimodal Foundation Models Understand Enterprise Workflows? A Benchmark for Business Process Management Tasks](https://arxiv.org/abs/2406.13264)<br>
   <span style="font-size:4mm;">Michael Wornow, Avanika Narayan, Ben Viggiano, **Ishan S. Khare**, Tathagat Verma, Tibor Thompson, Miguel Angel Fuentes Hernandez, Sudharsan Sundar, Chloe Trujillo, Krrish Chawla, Rongfei Lu, Justin Shen, Divya Nagaraj, Joshua Martinez, Vardhan Agrawal, Althea Hudson, Nigam H. Shah, Christopher Ré. *In submission*, 2024.</span><br>
