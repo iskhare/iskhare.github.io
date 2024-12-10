@@ -19,7 +19,7 @@ Publications and Preprints
 ------
 - [Smoothie: Label Free Language Model Routing](https://arxiv.org/abs/2412.04692)<br>
   <span style="font-size:4mm;">Neel Guha\*, Mayee F. Chen\*, Trevor Chow, **Ishan S. Khare**, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
-  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2412.04692)</span>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2412.04692) | [blog](https://hazyresearch.stanford.edu/blog/2024-12-10-smoothie) | [code](https://github.com/HazyResearch/smoothie)</span>
   
 - [WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks](https://arxiv.org/abs/2406.13264)<br>
   <span style="font-size:4mm;">Michael Wornow, Avanika Narayan, Ben Viggiano, **Ishan S. Khare**, Tathagat Verma, Tibor Thompson, Miguel Angel Fuentes Hernandez, Sudharsan Sundar, Chloe Trujillo, Krrish Chawla, Rongfei Lu, Justin Shen, Divya Nagaraj, Joshua Martinez, Vardhan Agrawal, Althea Hudson, Nigam H. Shah, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
