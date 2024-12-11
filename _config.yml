@@ -23,7 +23,7 @@ masthead_title           : #
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jgp"
   name             : "Ishan Khare"
   pronouns         : # example: "she/her"  
   bio              : "Email: iskhare + at + stanford + dot + edu"
