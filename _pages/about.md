@@ -10,9 +10,9 @@ redirect_from:
 
 I am a BS+MS student in Computer Science at Stanford University, currently doing research under Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) as part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
 
-I'm interested in a variety of research topics generally in the domains of AI and machine learning. Recently, I've worked on [WONDERBREAD](https://hazyresearch.stanford.edu/wonderbread-website/): a benchmark + dataset for evaluating multimodal models. Additionally, I worked on another project that aims to improve LLM model routing. Moving forward, I am particularly excited to continue my research journey in both academic and industry settings.
+I'm interested in a variety of research topics generally in the domains of AI and machine learning, with a particular focus on algorithms formultimodal and large language models (LLMs), and their applications. Recently, I've worked on [WONDERBREAD](https://hazyresearch.stanford.edu/wonderbread-website/): a benchmark + dataset for evaluating multimodal models on on business process management tasks. In addition to this, I contributed to [Smoothie](https://hazyresearch.stanford.edu/blog/2024-12-10-smoothie), a novel label-free approach for inference-time LLM routing. 
 
-Please get in touch with me via email if you would like to chat about research or collaboration!
+Moving forward, I am excited to explore research opportunities and collaborations in both academic and industry settings. Feel free to get in touch via email if you would like to discuss about research or collaboration!
 
 
 Publications and Preprints
