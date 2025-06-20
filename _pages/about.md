@@ -275,8 +275,8 @@ function startAutoTraining() {
   animate();
 }
 
-// Initialize the network when page loads
-document.addEventListener('DOMContentLoaded', createNeuralNetwork);
+// Initialize the network when the window has finished loading
+window.addEventListener('load', createNeuralNetwork);
 </script>
 
 Publications and Preprints
