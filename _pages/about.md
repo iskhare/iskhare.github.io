@@ -156,6 +156,7 @@ Moving forward, I am excited to explore research opportunities and collaboration
 <script>
 let connections = [];
 let isTraining = true;
+let animationLoopId = null;
 
 function createNeuralNetwork() {
   const network = document.getElementById('neuralNetwork');
@@ -223,6 +224,9 @@ function createConnections() {
 }
 
 function startAutoTraining() {
+  if (animationLoopId) {
+    clearTimeout(animationLoopId);
+  }
   const neurons = document.querySelectorAll('.neuron');
   
   const animate = () => {
@@ -269,14 +273,17 @@ function startAutoTraining() {
       }, layerIndex * 1200);
     });
     
-    setTimeout(animate, 7000);
+    animationLoopId = setTimeout(animate, 7000);
   };
   
   animate();
 }
 
 // Initialize the network when the window has finished loading
-window.addEventListener('load', createNeuralNetwork);
+window.addEventListener('load', () => {
+    setTimeout(createNeuralNetwork, 100);
+});
+window.addEventListener('resize', createNeuralNetwork);
 </script>
 
 Publications and Preprints
