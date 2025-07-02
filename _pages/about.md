@@ -14,10 +14,10 @@ I'm interested in a variety of research topics generally in the domains of AI an
 
 Moving forward, I am excited to explore research opportunities and collaborations in both academic and industry settings. Feel free to get in touch via email if you would like to discuss about research or collaboration!
 
-<div style="text-align: center; margin: 2rem 0;">
+<!-- <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/neural-network.gif" alt="Neural Network Training Animation" style="max-width: 550px;">
   <p style="font-size: 0.9rem; margin-top: 0.5rem; font-weight: 500; color: #6b7280; opacity: 0.8; letter-spacing: 0.5px;">training in progress...</p>
-</div>
+</div> -->
 
 Publications and Preprints
 ------
