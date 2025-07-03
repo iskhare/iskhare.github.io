@@ -1,6 +1,6 @@
 ---
 permalink: /poker/
-title: "Poker"
+title: ""
 excerpt: "Poker Statistics"
 author_profile: false
 ---
