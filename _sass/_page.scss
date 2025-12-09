@@ -6,6 +6,7 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
+  padding-top: 25px;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -398,4 +399,120 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+
+/*
+   Publication Entries with Images
+   ========================================================================== */
+
+.publication-entry {
+  display: flex;
+  gap: 1.25em;
+  padding: 1.25em;
+  margin-bottom: 1.25em;
+  background: #fff;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow-sm;
+  border: 1px solid $border-color;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    box-shadow: $box-shadow-md;
+    transform: translateY(-2px);
+  }
+
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.publication-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: $border-radius-sm;
+  flex-shrink: 0;
+  box-shadow: $box-shadow-sm;
+
+  @media screen and (max-width: 600px) {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+.publication-content {
+  flex: 1;
+  min-width: 0;
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  strong {
+    color: $darker-gray;
+  }
+}
+
+.publication-authors {
+  display: block;
+  font-size: $type-size-6;
+  color: $gray;
+  line-height: 1.5;
+  margin-top: 0.25em;
+}
+
+.publication-links {
+  display: block;
+  font-size: $type-size-6;
+  margin-top: 0.5em;
+
+  a {
+    color: $accent-color;
+    text-decoration: none;
+    transition: $global-transition;
+
+    &:hover {
+      color: $link-color-hover;
+      text-decoration: underline;
+    }
+  }
+}
+
+/*
+   Publication Cards (legacy)
+   ========================================================================== */
+
+.publication-card {
+  background: #fff;
+  border-radius: $border-radius-lg;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  box-shadow: $box-shadow;
+  border: 1px solid $border-color;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    box-shadow: $box-shadow-hover;
+    transform: translateY(-4px);
+    border-color: transparent;
+  }
+
+  h3, h4 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    color: $darker-gray;
+  }
+
+  .publication-meta {
+    font-size: $type-size-6;
+    color: $gray;
+    margin-bottom: 0.75em;
+  }
 }

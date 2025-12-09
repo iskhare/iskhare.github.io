@@ -112,6 +112,14 @@ blockquote {
 /* links */
 
 a {
+  color: $link-color;
+  text-decoration: none;
+  transition: $global-transition;
+
+  &:hover {
+    color: $link-color-hover;
+  }
+
   &:focus {
     @extend %tab-focus;
   }
@@ -119,6 +127,19 @@ a {
   &:hover,
   &:active {
     outline: 0;
+  }
+}
+
+/* Enhanced link style for content areas */
+.page__content a:not(.btn) {
+  text-decoration: none;
+  background-image: linear-gradient(transparent 90%, rgba($link-color, 0.3) 90%);
+  background-size: 100% 100%;
+  transition: background-size 0.3s ease, color 0.3s ease;
+
+  &:hover {
+    background-image: linear-gradient(transparent 85%, rgba($link-color-hover, 0.4) 85%);
+    color: $link-color-hover;
   }
 }
 

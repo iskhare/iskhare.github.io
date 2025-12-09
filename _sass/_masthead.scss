@@ -1,26 +1,26 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD - Modern Redesign
    ========================================================================== */
 
 .masthead {
   position: fixed;
-  background: white;
-  border-bottom: 1px solid $border-color;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba($border-color, 0.5);
   height: $masthead-height;
   top: 0;
   width: 100%;
-
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
   z-index: 20;
+
+  animation: slideDown 0.5s ease-out both;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    padding: 1em 1.5em;
+    font-family: $sans-serif;
+    font-weight: 500;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -32,12 +32,12 @@
 
     a {
       text-decoration: none;
+      transition: $global-transition;
     }
   }
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -54,5 +54,31 @@
   &--lg {
     padding-right: 3em;
     font-weight: 700;
+    font-size: 1.1em;
+    letter-spacing: -0.02em;
+  }
+
+  a {
+    position: relative;
+    padding: 0.5em 0;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: linear-gradient(90deg, $primary-color, $accent-color);
+      transition: width 0.3s ease;
+    }
+
+    &:hover {
+      color: $primary-color;
+
+      &::after {
+        width: 100%;
+      }
+    }
   }
 }

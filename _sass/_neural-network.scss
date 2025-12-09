@@ -1,0 +1,48 @@
+/* ==========================================================================
+   Neural Network Animation Styles
+   ========================================================================== */
+
+.neural-network-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+#neural-network-canvas {
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+}
+
+.neural-network-overlay {
+  display: none;
+}
+
+/* Adjust main content - ensure text is readable over background */
+body.has-neural-animation {
+  #main {
+    position: relative;
+    z-index: 1;
+  }
+
+  .page__content {
+    background-color: rgba($background-color, 0.95);
+    padding: 1.5em;
+    border-radius: $border-radius;
+  }
+
+  .sidebar {
+    @media screen and (min-width: $sidebar-screen-min-width) {
+      background-color: rgba($background-color, 0.9);
+      border-radius: $border-radius;
+      padding-left: 1em;
+      padding-right: 1em;
+      padding-bottom: 1em;
+    }
+  }
+}
