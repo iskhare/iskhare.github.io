@@ -39,7 +39,7 @@ Publications and Preprints
 </div>
 
 <div class="publication-entry">
-  <img src="/images/wonderbread_cartoon.png" alt="WONDERBREAD" class="publication-image">
+  <img src="/images/wonderbread_cartoon.jpg" alt="WONDERBREAD" class="publication-image">
   <div class="publication-content">
     <a href="https://hazyresearch.stanford.edu/wonderbread-website/"><strong>WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks</strong></a><br>
     <span class="publication-authors">Michael Wornow, Avanika Narayan, Ben Viggiano, <strong>Ishan S. Khare</strong>, Tathagat Verma, Tibor Thompson, Miguel Angel Fuentes Hernandez, Sudharsan Sundar, Chloe Trujillo, Krrish Chawla, Rongfei Lu, Justin Shen, Divya Nagaraj, Joshua Martinez, Vardhan Agrawal, Althea Hudson, Nigam H. Shah, Christopher Ré. <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2024.</span>
