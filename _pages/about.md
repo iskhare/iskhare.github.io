@@ -26,7 +26,7 @@ I'm excited to explore research opportunities and collaborations in both academi
   <p style="font-size: 0.9rem; margin-top: 0.5rem; font-weight: 500; color: #6b7280; opacity: 0.8; letter-spacing: 0.5px;">training in progress...</p>
 </div> -->
 
-Publications and Preprints
+Research Publications
 ------
 
 <div class="publication-entry">
@@ -56,14 +56,14 @@ Publications and Preprints
   </div>
 </div>
 
-<div class="publication-entry">
+<!-- <div class="publication-entry">
   <img src="/images/crime_heatmap.png" alt="Crime Analysis" class="publication-image">
   <div class="publication-content">
     <a href="https://arxiv.org/abs/2306.15987"><strong>Actionable Insights on Philadelphia Crime Hot-Spots: Clustering and Statistical Analysis to Inform Future Crime Legislation</strong></a><br>
     <span class="publication-authors"><strong>Ishan S. Khare</strong>, Tarun K. Martheswaran, Rahul K. Thomas, Aditya Bora. <em>Arxiv</em>, 2023.</span>
     <span class="publication-links"><a href="https://arxiv.org/pdf/2306.15987">paper</a></span>
   </div>
-</div>
+</div> -->
 
 <div class="publication-entry">
   <img src="/images/matsci-graphical-abstract.jpg" alt="Materials Science" class="publication-image">
