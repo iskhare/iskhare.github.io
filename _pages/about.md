@@ -43,7 +43,7 @@ Research Publications
   <div class="publication-content">
     <a href="https://hazyresearch.stanford.edu/blog/2025-12-29-agentic-it"><strong>An Information Theoretic Perspective on Agentic System Design</strong></a><br>
     <span class="publication-authors">Shizhe He, Avanika Narayan,  <strong>Ishan S. Khare</strong>, Scott W. Linderman, Christopher Ré, Dan Biderman. <em>International Conference on Learning Representations (ICLR)</em>, 2026.</span>
-    <span class="publication-links"><a href="https://arxiv.org/pdf/2512.21720">paper</a> | <a href="https://hazyresearch.stanford.edu/blog/2025-12-29-agentic-it">blog</a> | <a href="https://github.com/ScalingIntelligence/Turbo-dLLM">code</a></span>
+    <span class="publication-links"><a href="https://arxiv.org/pdf/2512.21720">paper</a> | <a href="https://hazyresearch.stanford.edu/blog/2025-12-29-agentic-it">blog</a> | <a href="https://github.com/shizhehe/agentic-information-theory">code</a></span>
   </div>
 </div>
 
