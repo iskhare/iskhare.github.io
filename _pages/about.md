@@ -33,7 +33,7 @@ Research Publications
   <img src="/images/turbo-dllm.jpg" alt="Turbo dLLM" class="publication-image">
   <div class="publication-content">
     <a href="https://scalingintelligence.stanford.edu/Turbo-dLLM"><strong>Block Parallelism for Efficient Distributed Long-Context Diffusion Language Model Training</strong></a><br>
-    <span class="publication-authors">Tarun Suresh*, Pranshu Chaturvedi*, Hangoo Kang*, Parth Shroff, <strong>Ishan S. Khare</strong>, Hermann Kumbong, Azalia Mirhoseini. <em>Under Review</em>, 2026.</span>
+    <span class="publication-authors">Tarun Suresh*, Pranshu Chaturvedi*, Hangoo Kang*, Parth Shroff, <strong>Ishan S. Khare</strong>, Hermann Kumbong, Azalia Mirhoseini. <em>NeurIPS DiffuLM Workshop</em>, 2026.</span>
     <span class="publication-links"><a href="https://arxiv.org/pdf/2609.19242">paper</a> | <a href="https://scalingintelligence.stanford.edu/Turbo-dLLM">blog</a> | <a href="https://github.com/ScalingIntelligence/Turbo-dLLM">code</a></span>
   </div>
 </div>
