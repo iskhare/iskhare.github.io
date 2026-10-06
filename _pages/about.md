@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an M.S. student in Computer Science at Stanford University, where I also completed my B.S. in Computer Science. I conduct research with Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) in the [Hazy Research Lab](https://hazyresearch.stanford.edu/) and Prof. Azalia Mirhoseini in the [Scaling Intelligence Lab](https://scalingintelligence.stanford.edu/).
+I’m an M.S. student in Computer Science at Stanford University, where I also completed my B.S. in Computer Science. I conduct research with Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) in the [Hazy Research Lab](https://hazyresearch.stanford.edu/) and Prof. [Azalia Mirhoseini](https://www.azaliamirhoseini.com/) in the [Scaling Intelligence Lab](https://scalingintelligence.stanford.edu/).
 
 My research broadly focuses on understanding the fundamental bottlenecks and principles governing modern machine learning systems, and using those insights to design more efficient and capable models.
 
