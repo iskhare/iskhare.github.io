@@ -9,17 +9,21 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated with a BS in Computer Science from Stanford University and am now continuing as a MS student. Currently, I am doing research under Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) as part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
+I’m an M.S. student in Computer Science at Stanford University, where I also completed my B.S. in Computer Science. I conduct research with Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) in the [Hazy Research Lab](https://hazyresearch.stanford.edu/) and Prof. Azalia Mirhoseini in the [Scaling Intelligence Lab](https://scalingintelligence.stanford.edu/).
 
-My research focuses on developing efficient, interpretable methods for large language models, with three core directions:
+My research broadly focuses on understanding the fundamental bottlenecks and principles governing modern machine learning systems, and using those insights to design more efficient and capable models.
 
-- **Benchmarking & Evaluation** — Developing rigorous methods to assess foundation model capabilities, including [WONDERBREAD](https://hazyresearch.stanford.edu/wonderbread-website/), a benchmark for evaluating multimodal models on business process management tasks.
 
-- **Model Routing** — Creating efficient approaches for inference-time model selection, such as [Smoothie](https://hazyresearch.stanford.edu/blog/2024-12-10-smoothie), a label-free approach for LLM routing.
+Recently, I have worked on:
 
-- **System Design** — Building scalable multi-model architectures that maximize both efficiency and performance in real-world deployments.
+- **Next-Concept Modeling (NCM)** — a coarse-to-fine language modeling framework for fast, parallel text generation.
 
-I'm excited to explore research opportunities and collaborations in both academic and industry settings. Feel free to get in touch via email to discuss research or collaboration!
+- **Principled ML Systems** — studying how bottlenecks in communication and computation shape system design, including an [information-theoretic framework](https://hazyresearch.stanford.edu/blog/2025-12-29-agentic-it) for agentic systems and [Turbo-dLLM](https://scalingintelligence.stanford.edu/Turbo-dLLM/), a block-parallel training system for long-context diffusion language models.
+
+- **Model Routing & Evaluation** — including [Smoothie](https://hazyresearch.stanford.edu/blog/2024-12-10-smoothie), a label-free method for language model routing, and [WONDERBREAD](https://hazyresearch.stanford.edu/wonderbread-website/), a benchmark for evaluating multimodal foundation models on enterprise workflows.
+
+
+I love exploring principled approaches to language models and ML systems, and I’m always excited to discuss new research directions and collaborations. Feel free to reach out by email!
 
 <!-- <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/neural-network.gif" alt="Neural Network Training Animation" style="max-width: 550px;">
