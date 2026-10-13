@@ -16,7 +16,7 @@ My research broadly focuses on understanding the fundamental bottlenecks and pri
 
 Recently, I have worked on:
 
-- **Next-Concept Modeling (NCM)** — a coarse-to-fine language modeling framework for fast, parallel text generation.
+- **Rethinking Model Design** — exploring how language models represent and generate text, including [Next-Concept Modeling (NCM)](https://hazyresearch.stanford.edu/blog/2026-10-12-ncm), a coarse-to-fine framework for fast, parallel text generation.
 
 - **Principled ML Systems** — studying how bottlenecks in communication and computation shape system design, including an [information-theoretic framework](https://hazyresearch.stanford.edu/blog/2025-12-29-agentic-it) for agentic systems and [Turbo-dLLM](https://scalingintelligence.stanford.edu/Turbo-dLLM/), a block-parallel training system for long-context diffusion language models.
 
@@ -32,6 +32,15 @@ I love exploring principled approaches to language models and ML systems, and I�
 
 Research Publications
 ------
+
+<div class="publication-entry">
+  <img src="/images/ncm-hero.png" alt="Next-Concept Modeling" class="publication-image" style="object-fit: fill;">
+  <div class="publication-content">
+    <a href="https://www.alphaxiv.org/abs/2610.next-concept-modeling-parallel-generation"><strong>Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation</strong></a><br>
+    <span class="publication-authors">Hermann Kumbong<sup>*</sup>, <strong>Ishan S. Khare</strong><sup>*</sup>, Iddah Mlauzi, Andrew Woen, Charles Ding, E. Kelly Buchanan, Simran Arora<sup>†</sup>, Azalia Mirhoseini<sup>†</sup>, and Christopher Ré<sup>†</sup>. <em>Under Review</em>, 2026.<br><sup>*</sup> Co-first author. <sup>†</sup> Equal advising.</span>
+    <span class="publication-links"><a href="https://www.alphaxiv.org/abs/2610.next-concept-modeling-parallel-generation">paper</a> | <a href="https://hazyresearch.stanford.edu/blog/2026-10-12-ncm">blog1</a> | <a href="https://scalingintelligence.stanford.edu/blogs/ncm/">blog2</a> | <a href="https://github.com/HazyResearch/ncm">code</a></span>
+  </div>
+</div>
 
 <div class="publication-entry">
   <img src="/images/turbo-dllm.jpg" alt="Turbo dLLM" class="publication-image">
