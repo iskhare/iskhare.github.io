@@ -38,7 +38,7 @@ Research Publications
   <div class="publication-content">
     <a href="https://www.alphaxiv.org/abs/2610.next-concept-modeling-parallel-generation"><strong>Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation</strong></a><br>
     <span class="publication-authors">Hermann Kumbong<sup>*</sup>, <strong>Ishan S. Khare</strong><sup>*</sup>, Iddah Mlauzi, Andrew Woen, Charles Ding, E. Kelly Buchanan, Simran Arora<sup>†</sup>, Azalia Mirhoseini<sup>†</sup>, and Christopher Ré<sup>†</sup>. <em>Under Review</em>, 2026.<br><sup>*</sup> Co-first author. <sup>†</sup> Equal advising.</span>
-    <span class="publication-links"><a href="https://www.alphaxiv.org/abs/2610.next-concept-modeling-parallel-generation">paper</a> | <a href="https://hazyresearch.stanford.edu/blog/2026-10-12-ncm">blog1</a> | <a href="https://scalingintelligence.stanford.edu/blogs/ncm/">blog2</a> | <a href="https://github.com/HazyResearch/ncm">code</a></span>
+    <span class="publication-links"><a href="https://arxiv.org/abs/2610.14162">paper</a> | <a href="https://hazyresearch.stanford.edu/blog/2026-10-12-ncm">blog1</a> | <a href="https://scalingintelligence.stanford.edu/blogs/ncm/">blog2</a> | <a href="https://github.com/HazyResearch/ncm">code</a></span>
   </div>
 </div>
 
